@@ -11,3 +11,8 @@ numpy==2.4.6
 pydantic==2.13.4
 
 requests==2.34.2
+
+pandas==3.0.3
+scikit-learn==1.9.0
+matplotlib==3.10.9
+seaborn==0.13.2
